@@ -15,6 +15,10 @@
 
 ---
 
+<div align="center">
+  <img src="assets/hero.png" alt="AI-разработчик" width="100%" />
+</div>
+
 ### 🙋‍♂️ Обо мне
 
 - 🔭 Сейчас работаю над Android-приложением **FocusField**
