@@ -46,16 +46,8 @@
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=developerseleznevru-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerseleznevru-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Топ языков" /></td>
-  </tr>
-</table>
 
 <img src="https://streak-stats.demolab.com?user=developerseleznevru-cmd&theme=tokyonight&hide_border=true&locale=ru" alt="Стрик коммитов" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=developerseleznevru-cmd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Трофеи" />
 
 </div>
 
