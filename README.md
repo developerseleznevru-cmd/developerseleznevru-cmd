@@ -1,0 +1,103 @@
+<!-- ✏️ Подсказки по правке:
+     1. Замените «Селезнёв» на своё имя (или ник).
+     2. В разделе «Контакты» впишите свой Telegram / email.
+     3. Описания проектов можно поправить под себя. -->
+
+<div align="center">
+
+<!-- Анимированная «печатающаяся» строка -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Привет%2C+я+Селезнёв+%F0%9F%91%8B;Fullstack-разработчик;HTML+%2B+CSS+%2B+JavaScript;PHP+%2F+Laravel+%2F+React;Люблю+превращать+идеи+в+код+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- Счётчик просмотров профиля -->
+<img src="https://komarev.com/ghpvc/?username=developerseleznevru-cmd&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2" alt="Просмотры профиля" />
+
+</div>
+
+---
+
+### 🙋‍♂️ Обо мне
+
+- 🔭 Сейчас работаю над Android-приложением **FocusField**
+- 🌱 Изучаю **Laravel** и **React**, становлюсь fullstack-разработчиком
+- 💬 Пишу на **PHP, JavaScript, Kotlin** — от вёрстки до бэкенда
+- ⚡ Ценю в коде: чистоту, простоту и чтобы «работало с первого раза»
+
+---
+
+### 🛠️ Мой стек
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ещё**
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Моя статистика на GitHub
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=developerseleznevru-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerseleznevru-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Топ языков" /></td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=developerseleznevru-cmd&theme=tokyonight&hide_border=true&locale=ru" alt="Стрик коммитов" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=developerseleznevru-cmd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Трофеи" />
+
+</div>
+
+---
+
+### 🚀 Мои проекты
+
+| | Проект | Описание |
+|---|---|---|
+| 📱 | [**FocusField**](https://github.com/developerseleznevru-cmd/FocusField) | Android-приложение на Kotlin для фокуса и продуктивности |
+| 🍽️ | [**restaurant**](https://github.com/developerseleznevru-cmd/restaurant) | Сайт ресторана на PHP |
+| 🌿 | [**EcoTrack**](https://github.com/developerseleznevru-cmd/EcoTrack) | Kotlin-приложение для отслеживания «зелёных» привычек |
+
+---
+
+### 🐍 Змейка моих коммитов
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerseleznevru-cmd/developerseleznevru-cmd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerseleznevru-cmd/developerseleznevru-cmd/output/github-contribution-grid-snake.svg" />
+  <img alt="Анимация коммитов" src="https://raw.githubusercontent.com/developerseleznevru-cmd/developerseleznevru-cmd/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📬 Контакты
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_НИК)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша@почта.ru)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer" alt="Футер" />
+</div>
