@@ -4,18 +4,6 @@
      3. Описания проектов можно поправить под себя. -->
 
 <div align="center">
-
-<!-- Анимированная «печатающаяся» строка -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Привет%2C+я+Селезнёв+%F0%9F%91%8B;Fullstack-разработчик;HTML+%2B+CSS+%2B+JavaScript;PHP+%2F+Laravel+%2F+React;Люблю+превращать+идеи+в+код+%F0%9F%9A%80" alt="Typing SVG" />
-
-<!-- Счётчик просмотров профиля -->
-<img src="https://komarev.com/ghpvc/?username=developerseleznevru-cmd&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2" alt="Просмотры профиля" />
-
-</div>
-
----
-
-<div align="center">
   <img src="assets/hero.png" alt="AI-разработчик" width="100%" />
 </div>
 
