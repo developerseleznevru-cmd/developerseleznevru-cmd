@@ -73,9 +73,9 @@
 
 | | Проект | Описание |
 |---|---|---|
-| 📱 | [**FocusField**](https://github.com/developerseleznevru-cmd/FocusField) | Android-приложение на Kotlin для фокуса и продуктивности |
-| 🍽️ | [**restaurant**](https://github.com/developerseleznevru-cmd/restaurant) | Сайт ресторана на PHP |
-| 🌿 | [**EcoTrack**](https://github.com/developerseleznevru-cmd/EcoTrack) | Kotlin-приложение для отслеживания «зелёных» привычек |
+| 📱 | [**FocusField**](https://github.com/developerseleznevru-cmd/FocusField) | AI-менеджер внимания: Kotlin, MVVM, ML Kit, Wear OS — блокирует отвлекающие приложения |
+| 🍽️ | [**restaurant**](https://github.com/developerseleznevru-cmd/restaurant) | Веб-приложение для ресторана: Laravel, Tailwind CSS, Vite |
+| 🌿 | [**EcoTrack**](https://github.com/developerseleznevru-cmd/EcoTrack) | Android-приложение (Kotlin) для отслеживания «зелёных» привычек |
 
 ---
 
@@ -93,8 +93,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_НИК)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша@почта.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerseleznev.ru@gmail.com)
 
 </div>
 
